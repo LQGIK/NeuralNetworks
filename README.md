@@ -1,1 +1,0 @@
-A Repository of practice Neural Networks Projects
